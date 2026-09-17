@@ -1,0 +1,2 @@
+import{a as e}from"./rolldown-runtime-CNC7AqOf.js";import{t}from"./react-6C37rxNK.js";var n=e(t(),1),r=(e=2e3)=>{let[t,r]=(0,n.useState)(!1);return[t,(0,n.useCallback)(t=>{navigator.clipboard.writeText(t),r(!0),setTimeout(()=>r(!1),e)},[e])]};export{r as t};
+//# sourceMappingURL=useCopyToClipboard-CpHVUxyx.js.map

@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "framework": {
+    "version": "0.86.0"
+  },
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/quickstart",
+      "status": 301,
+      "headers": {
+        "Location": "/quickstart"
+      }
+    }
+  ]
+}

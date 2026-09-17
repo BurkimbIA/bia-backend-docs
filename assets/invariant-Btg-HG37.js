@@ -1,0 +1,2 @@
+var e=class extends Error{developerHint;title;constructor(e,{developerHint:t,title:n,cause:r}={}){super(e,{cause:r}),this.name=`ZudokuError`,this.title=n,this.developerHint=t}};export{e as t};
+//# sourceMappingURL=invariant-Btg-HG37.js.map

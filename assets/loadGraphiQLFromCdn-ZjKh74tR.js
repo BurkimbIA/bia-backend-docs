@@ -1,0 +1,1 @@
+import{r as e}from"./loadGraphiQLFromCdn-w_umTU_H.js";export{e as loadGraphiQLFromCdn};

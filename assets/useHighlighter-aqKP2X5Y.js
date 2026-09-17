@@ -1,0 +1,2 @@
+import{a as e}from"./rolldown-runtime-CNC7AqOf.js";import{t}from"./react-6C37rxNK.js";import{_ as n}from"./utils-CbxrHoNM.js";var r=e(t(),1),i=()=>{let{syntaxHighlighting:e}=n().options;if(!e)throw Error(`Syntax highlighting not configured. Provide highlighterPromise in syntaxHighlighting options.`);return(0,r.use)(e.highlighterPromise)};export{i as t};
+//# sourceMappingURL=useHighlighter-aqKP2X5Y.js.map
