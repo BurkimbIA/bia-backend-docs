@@ -1,5 +1,5 @@
 import{t as e}from"./jsx-runtime-DiK4U9sA.js";import{n as t}from"./lib-DTB9BwdW.js";var n=e(),r=`Every error is a JSON body with a detail field; some endpoints add more
-structure on top.`,i=[{depth:1,text:`Errors`,id:`errors`,children:[{depth:2,text:`401 — missing or invalid credentials`,id:`401--missing-or-invalid-credentials`},{depth:2,text:`403 — account not ready`,id:`403--account-not-ready`},{depth:2,text:`422 — validation error`,id:`422--validation-error`},{depth:2,text:`429 — quota exceeded`,id:`429--quota-exceeded`}]}],a={title:`Errors`,lastModifiedTime:`2026-09-17T16:08:14.000Z`},o=`pages/errors.mdx`;function s(e){let r={a:`a`,code:`code`,h1:`h1`,h2:`h2`,p:`p`,pre:`pre`,span:`span`,...t(),...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(r.h1,{id:`errors`,children:`Errors`}),`
+structure on top.`,i=[{depth:1,text:`Errors`,id:`errors`,children:[{depth:2,text:`401 — missing or invalid credentials`,id:`401--missing-or-invalid-credentials`},{depth:2,text:`403 — account not ready`,id:`403--account-not-ready`},{depth:2,text:`422 — validation error`,id:`422--validation-error`},{depth:2,text:`429 — quota exceeded`,id:`429--quota-exceeded`}]}],a={title:`Errors`,lastModifiedTime:`2026-09-17T17:22:26.000Z`},o=`pages/errors.mdx`;function s(e){let r={a:`a`,code:`code`,h1:`h1`,h2:`h2`,p:`p`,pre:`pre`,span:`span`,...t(),...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(r.h1,{id:`errors`,children:`Errors`}),`
 `,(0,n.jsxs)(r.p,{children:[`Every error is a JSON body with a `,(0,n.jsx)(r.code,{inline:`true`,children:`detail`}),` field; some endpoints add more
 structure on top.`]}),`
 `,(0,n.jsx)(r.h2,{id:`401--missing-or-invalid-credentials`,children:`401 — missing or invalid credentials`}),`
@@ -26,4 +26,4 @@ message, so a client can point a user at the exact field:`}),`
 `,(0,n.jsx)(r.h2,{id:`429--quota-exceeded`,children:`429 — quota exceeded`}),`
 `,(0,n.jsxs)(r.p,{children:[`See `,(0,n.jsx)(r.a,{href:`/rate-limits`,children:`Rate limits`}),` for the two quota models (API key vs. signed-in
 session) and the exact response shape.`]})]})}function c(e={}){let{wrapper:r}={...t(),...e.components};return r?(0,n.jsx)(r,{...e,children:(0,n.jsx)(s,{...e})}):s(e)}export{o as __filepath,c as default,r as excerpt,a as frontmatter,i as tableOfContents};
-//# sourceMappingURL=errors-ieChViZV.js.map
+//# sourceMappingURL=errors-CBRDtBoJ.js.map

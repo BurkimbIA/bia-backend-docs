@@ -797,10 +797,10 @@
       "_useQuery-BwXvonYR.js"
     ]
   },
-  "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1789662147752": {
+  "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1789665784547": {
     "file": "assets/api-openapi.public.json-Bgp95yub.js",
     "name": "api-openapi.public.json",
-    "src": "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1789662147752",
+    "src": "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1789665784547",
     "isDynamicEntry": true
   },
   "node_modules/@shikijs/langs/dist/css.mjs": {
@@ -958,7 +958,7 @@
     ]
   },
   "node_modules/zudoku/src/app/entry.client.tsx": {
-    "file": "assets/entry.client-B4CmGOlI.js",
+    "file": "assets/entry.client-CQj4H8Zx.js",
     "name": "entry.client",
     "src": "node_modules/zudoku/src/app/entry.client.tsx",
     "isEntry": true,
@@ -1004,10 +1004,11 @@
       "_sidebarStore-DsDnZcBq.js"
     ],
     "dynamicImports": [
-      "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1789662147752",
+      "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1789665784547",
       "node_modules/zudoku/src/lib/plugins/markdown/MdxPage.tsx",
       "pages/rate-limits.mdx",
       "pages/quickstart.mdx",
+      "pages/openai-sdk.mdx",
       "pages/errors.mdx",
       "pages/api-keys.mdx",
       "_SyntaxHighlight-ZwtPPPgi.js",
@@ -1656,7 +1657,7 @@
     ]
   },
   "pages/api-keys.mdx": {
-    "file": "assets/api-keys-BeBWBtwC.js",
+    "file": "assets/api-keys-B9WZmkDq.js",
     "name": "api-keys",
     "src": "pages/api-keys.mdx",
     "isDynamicEntry": true,
@@ -1666,7 +1667,7 @@
     ]
   },
   "pages/errors.mdx": {
-    "file": "assets/errors-ieChViZV.js",
+    "file": "assets/errors-CBRDtBoJ.js",
     "name": "errors",
     "src": "pages/errors.mdx",
     "isDynamicEntry": true,
@@ -1675,8 +1676,18 @@
       "_lib-DTB9BwdW.js"
     ]
   },
+  "pages/openai-sdk.mdx": {
+    "file": "assets/openai-sdk-DLPvBBF_.js",
+    "name": "openai-sdk",
+    "src": "pages/openai-sdk.mdx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-DiK4U9sA.js",
+      "_lib-DTB9BwdW.js"
+    ]
+  },
   "pages/quickstart.mdx": {
-    "file": "assets/quickstart-CPF69nnT.js",
+    "file": "assets/quickstart-Ct_lev-t.js",
     "name": "quickstart",
     "src": "pages/quickstart.mdx",
     "isDynamicEntry": true,
@@ -1686,7 +1697,7 @@
     ]
   },
   "pages/rate-limits.mdx": {
-    "file": "assets/rate-limits-BGVLEIQ7.js",
+    "file": "assets/rate-limits-dW-mYW9f.js",
     "name": "rate-limits",
     "src": "pages/rate-limits.mdx",
     "isDynamicEntry": true,

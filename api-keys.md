@@ -13,7 +13,7 @@ Minting a key requires being signed in — a bearer token from `/auth/token`,
 or an existing API key:
 
 ```bash
-curl -X POST https://bia-backend.fly.dev/api/v1/auth/key \
+curl -X POST https://api.burkimbia.com/api/v1/auth/key \
   -H "Authorization: Bearer <token>" \
   -H "Content-Type: application/json" \
   -d '{"name": "production"}'
@@ -29,7 +29,7 @@ small number of active keys at once; create one per environment (e.g.
 Send it as `X-API-Key`, not `Authorization`:
 
 ```bash
-curl https://bia-backend.fly.dev/api/v1/translate \
+curl https://api.burkimbia.com/api/v1/translate \
   -H "X-API-Key: <your_api_key>" \
   ...
 ```
@@ -44,7 +44,7 @@ To check a key is valid and see which account it belongs to (for example,
 diagnosing a 401 in a support request), verify it without spending quota:
 
 ```bash
-curl -X POST https://bia-backend.fly.dev/api/v1/auth/verify-api-key \
+curl -X POST https://api.burkimbia.com/api/v1/auth/verify-api-key \
   -H "Content-Type: application/json" \
   -d '{"api_key": "<the_key>"}'
 ```
