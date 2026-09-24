@@ -797,10 +797,10 @@
       "_useQuery-BwXvonYR.js"
     ]
   },
-  "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1789665784547": {
+  "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1790263116270": {
     "file": "assets/api-openapi.public.json-Bgp95yub.js",
     "name": "api-openapi.public.json",
-    "src": "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1789665784547",
+    "src": "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1790263116270",
     "isDynamicEntry": true
   },
   "node_modules/@shikijs/langs/dist/css.mjs": {
@@ -958,7 +958,7 @@
     ]
   },
   "node_modules/zudoku/src/app/entry.client.tsx": {
-    "file": "assets/entry.client-CQj4H8Zx.js",
+    "file": "assets/entry.client-DF7nVb1Y.js",
     "name": "entry.client",
     "src": "node_modules/zudoku/src/app/entry.client.tsx",
     "isEntry": true,
@@ -1004,7 +1004,7 @@
       "_sidebarStore-DsDnZcBq.js"
     ],
     "dynamicImports": [
-      "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1789665784547",
+      "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1790263116270",
       "node_modules/zudoku/src/lib/plugins/markdown/MdxPage.tsx",
       "pages/rate-limits.mdx",
       "pages/quickstart.mdx",
@@ -1657,7 +1657,7 @@
     ]
   },
   "pages/api-keys.mdx": {
-    "file": "assets/api-keys-B9WZmkDq.js",
+    "file": "assets/api-keys-BzYdedtJ.js",
     "name": "api-keys",
     "src": "pages/api-keys.mdx",
     "isDynamicEntry": true,
@@ -1667,7 +1667,7 @@
     ]
   },
   "pages/errors.mdx": {
-    "file": "assets/errors-CBRDtBoJ.js",
+    "file": "assets/errors-qqUtwZ2m.js",
     "name": "errors",
     "src": "pages/errors.mdx",
     "isDynamicEntry": true,
@@ -1677,7 +1677,7 @@
     ]
   },
   "pages/openai-sdk.mdx": {
-    "file": "assets/openai-sdk-DLPvBBF_.js",
+    "file": "assets/openai-sdk-Vo5n1rji.js",
     "name": "openai-sdk",
     "src": "pages/openai-sdk.mdx",
     "isDynamicEntry": true,
@@ -1687,7 +1687,7 @@
     ]
   },
   "pages/quickstart.mdx": {
-    "file": "assets/quickstart-Ct_lev-t.js",
+    "file": "assets/quickstart-CpnAzAcJ.js",
     "name": "quickstart",
     "src": "pages/quickstart.mdx",
     "isDynamicEntry": true,
@@ -1697,7 +1697,7 @@
     ]
   },
   "pages/rate-limits.mdx": {
-    "file": "assets/rate-limits-dW-mYW9f.js",
+    "file": "assets/rate-limits-DMq4MBs9.js",
     "name": "rate-limits",
     "src": "pages/rate-limits.mdx",
     "isDynamicEntry": true,

@@ -1,6 +1,6 @@
 import{t as e}from"./jsx-runtime-DiK4U9sA.js";import{n as t}from"./lib-DTB9BwdW.js";var n=e(),r=`The BurkimbIA API translates, transcribes, and speaks between french and
 moore. Every call is authenticated and forwarded to a BurkimbIA-hosted
-inference worker; the response comes straight back.`,i=[{depth:1,text:`Quickstart`,id:`quickstart`,children:[{depth:2,text:`1. Get an API key`,id:`1-get-an-api-key`},{depth:2,text:`2. Call the API`,id:`2-call-the-api`},{depth:2,text:`Next`,id:`next`}]}],a={title:`Quickstart`,lastModifiedTime:`2026-09-17T17:22:26.000Z`},o=`pages/quickstart.mdx`;function s(e){let r={a:`a`,code:`code`,h1:`h1`,h2:`h2`,li:`li`,p:`p`,pre:`pre`,span:`span`,ul:`ul`,...t(),...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(r.h1,{id:`quickstart`,children:`Quickstart`}),`
+inference worker; the response comes straight back.`,i=[{depth:1,text:`Quickstart`,id:`quickstart`,children:[{depth:2,text:`1. Get an API key`,id:`1-get-an-api-key`},{depth:2,text:`2. Call the API`,id:`2-call-the-api`},{depth:2,text:`Next`,id:`next`}]}],a={title:`Quickstart`,lastModifiedTime:`2026-09-24T15:17:49.000Z`},o=`pages/quickstart.mdx`;function s(e){let r={a:`a`,code:`code`,h1:`h1`,h2:`h2`,li:`li`,p:`p`,pre:`pre`,span:`span`,ul:`ul`,...t(),...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(r.h1,{id:`quickstart`,children:`Quickstart`}),`
 `,(0,n.jsxs)(r.p,{children:[`The BurkimbIA API translates, transcribes, and speaks between `,(0,n.jsx)(r.code,{inline:`true`,children:`french`}),` and
 `,(0,n.jsx)(r.code,{inline:`true`,children:`moore`}),`. Every call is authenticated and forwarded to a BurkimbIA-hosted
 inference worker; the response comes straight back.`]}),`
@@ -35,4 +35,4 @@ of a bearer token:`]}),`
 `,(0,n.jsxs)(r.li,{children:[(0,n.jsx)(r.a,{href:`/errors`,children:`Errors`}),` — response shape for validation and quota errors`]}),`
 `,(0,n.jsxs)(r.li,{children:[(0,n.jsx)(r.a,{href:`/api`,children:`API Reference`}),` — every request/response schema`]}),`
 `]})]})}function c(e={}){let{wrapper:r}={...t(),...e.components};return r?(0,n.jsx)(r,{...e,children:(0,n.jsx)(s,{...e})}):s(e)}export{o as __filepath,c as default,r as excerpt,a as frontmatter,i as tableOfContents};
-//# sourceMappingURL=quickstart-Ct_lev-t.js.map
+//# sourceMappingURL=quickstart-CpnAzAcJ.js.map
