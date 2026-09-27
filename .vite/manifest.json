@@ -797,10 +797,10 @@
       "_useQuery-BwXvonYR.js"
     ]
   },
-  "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1790529696055": {
-    "file": "assets/api-openapi.public.json-Bgp95yub.js",
+  "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1790529816112": {
+    "file": "assets/api-openapi.public.json-hzVRcWWZ.js",
     "name": "api-openapi.public.json",
-    "src": "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1790529696055",
+    "src": "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1790529816112",
     "isDynamicEntry": true
   },
   "node_modules/@shikijs/langs/dist/css.mjs": {
@@ -958,7 +958,7 @@
     ]
   },
   "node_modules/zudoku/src/app/entry.client.tsx": {
-    "file": "assets/entry.client-DHcraGSv.js",
+    "file": "assets/entry.client-DXEDK5NC.js",
     "name": "entry.client",
     "src": "node_modules/zudoku/src/app/entry.client.tsx",
     "isEntry": true,
@@ -1004,7 +1004,7 @@
       "_sidebarStore-DsDnZcBq.js"
     ],
     "dynamicImports": [
-      "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1790529696055",
+      "node_modules/.zudoku/processed/api-openapi.public.json.js?d=1790529816112",
       "node_modules/zudoku/src/lib/plugins/markdown/MdxPage.tsx",
       "pages/rate-limits.mdx",
       "pages/quickstart.mdx",
@@ -1657,7 +1657,7 @@
     ]
   },
   "pages/api-keys.mdx": {
-    "file": "assets/api-keys-BimVfJTN.js",
+    "file": "assets/api-keys-dRXoE937.js",
     "name": "api-keys",
     "src": "pages/api-keys.mdx",
     "isDynamicEntry": true,
@@ -1667,7 +1667,7 @@
     ]
   },
   "pages/errors.mdx": {
-    "file": "assets/errors-BBj56-Aa.js",
+    "file": "assets/errors-rxe3UEfd.js",
     "name": "errors",
     "src": "pages/errors.mdx",
     "isDynamicEntry": true,
@@ -1677,7 +1677,7 @@
     ]
   },
   "pages/openai-sdk.mdx": {
-    "file": "assets/openai-sdk-BNazatH3.js",
+    "file": "assets/openai-sdk-Dtx6na62.js",
     "name": "openai-sdk",
     "src": "pages/openai-sdk.mdx",
     "isDynamicEntry": true,
@@ -1687,7 +1687,7 @@
     ]
   },
   "pages/quickstart.mdx": {
-    "file": "assets/quickstart-BwzeQyM6.js",
+    "file": "assets/quickstart-8Qd15h9c.js",
     "name": "quickstart",
     "src": "pages/quickstart.mdx",
     "isDynamicEntry": true,
@@ -1697,7 +1697,7 @@
     ]
   },
   "pages/rate-limits.mdx": {
-    "file": "assets/rate-limits-BPO3iOt7.js",
+    "file": "assets/rate-limits-BfPGvINq.js",
     "name": "rate-limits",
     "src": "pages/rate-limits.mdx",
     "isDynamicEntry": true,
